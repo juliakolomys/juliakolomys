@@ -61,6 +61,7 @@
 <table align="center" cellpadding="10" cellspacing="0" border="0" width="100%">
   <tr>
     <td valign="top" width="50%">
+      <!-- Основна статистика: налаштована вручну під ніжні пастельні тони -->
       <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&hide_border=true&bg_color=f4f7f6&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="Julia's GitHub stats" width="100%" />
     </td>
     <td valign="top" width="50%">
@@ -70,9 +71,13 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <!-- Картка мов програмування: підігнана під той самий пастельний колір профілю -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&hide_border=true&bg_color=f4f7f6&title_color=0f766e&text_color=334155" alt="Top Languages" width="100%" />
     </td>
   </tr>
+</table>
+
+---
 </table>
 
 ---
