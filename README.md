@@ -56,13 +56,22 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&theme=catppuccin_latte&hide_border=false" alt="Julia's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel" alt="Julia's GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&theme=catppuccin_latte&hide_border=false" alt="Top Languages" height="165" />
-</p>
+<table align="center" cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&theme=catppuccin_latte&hide_border=true" alt="Julia's GitHub stats" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel&hide_border=true" alt="Julia's GitHub streak" height="165" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
