@@ -60,22 +60,36 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-<table align="center" cellpadding="10" cellspacing="0" border="0">
+<table align="center" cellpadding="5" cellspacing="0" border="0" width="100%">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&theme=flat&hide_border=true&bg_color=f4f7f6&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="Julia's GitHub stats" height="150" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliakolomys&theme=vivid_light" alt="Julia's GitHub Details" width="100%" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel&hide_border=true" alt="Julia's GitHub streak" height="150" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel&hide_border=true" alt="Julia's Contribution Streak" width="100%" />
     </td>
   </tr>
+</table>
+
+<table align="center" cellpadding="5" cellspacing="0" border="0" width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&hide_border=true&bgColor=f4f7f6&titleColor=0f766e&textColor=334155" alt="Top Languages" width="100%" />
+    <td width="33%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juliakolomys&theme=vivid_light&utcOffset=3" alt="Julia's Productive Time" width="100%" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliakolomys&theme=vivid_light" alt="Repositories per Language" width="100%" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juliakolomys&theme=vivid_light" alt="Most Commits per Language" width="100%" />
     </td>
   </tr>
+</table>
+
+---
 </table>
 
 ---
