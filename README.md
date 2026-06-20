@@ -58,20 +58,24 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <table align="center" cellpadding="10" cellspacing="0" border="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&theme=catppuccin_latte&hide_border=true" alt="Julia's GitHub stats" height="165" />
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&theme=flat&hide_border=true&bg_color=f4f7f6&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="Julia's GitHub stats" height="150" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel&hide_border=true" alt="Julia's GitHub streak" height="165" />
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel&hide_border=true" alt="Julia's GitHub streak" height="150" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&hide_border=true&bgColor=f4f7f6&titleColor=0f766e&textColor=334155" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
+
+---
