@@ -2,8 +2,11 @@
 <h3 align="center">A backend developer from Ukraine</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuliia-kolomys-53b46937b" target="_blank">
+  <a href="https://linkedin.com/in/yuliia-kolomys" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:j.kolomys@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -58,26 +61,11 @@
 
 ### 📊 GitHub Stats
 
-<table align="center" cellpadding="10" cellspacing="0" border="0" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <!-- Основна статистика: налаштована вручну під ніжні пастельні тони -->
-      <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&hide_border=true&bg_color=f4f7f6&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="Julia's GitHub stats" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <!-- Стрік активності: офіційна пастельна тема -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=pastel&hide_border=true" alt="Julia's GitHub streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Картка мов програмування: підігнана під той самий пастельний колір профілю -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&hide_border=true&bg_color=f4f7f6&title_color=0f766e&text_color=334155" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliakolomys&show_icons=true&locale=en&theme=dracula&hide_border=false" alt="Julia's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakolomys&theme=dracula" alt="Julia's GitHub streak" height="160" />
+</p>
 
----
-</table>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakolomys&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="160" />
+</p>
